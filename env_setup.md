@@ -1,4 +1,4 @@
-# Environment setup for the introduction to Machine Learning Course
+# Environment setup for the intermediate Machine Learning Course
 
 > :exclamation: if you encounter any error with the instructions given on this page, please create a [github issue](https://github.com/sib-swiss/intermediate-machine-learning-training/issues/new) to explain your problem and we will try to get back to you ASAP.
 
