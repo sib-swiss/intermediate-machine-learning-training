@@ -19,8 +19,12 @@ We advocate the use of conda environment for tidy management of the libraries ne
 
 ## course organization 
 
-The course is organized in several, numbered, jupyter notebooks, each corresponding to a chapter which interleaves theory, code demo, and exercises.
+The course is organized in several "chapters" where the theory is covered in slides, and jupyter notebooks interleave code demo, and exercises.
 
+ * [Chapter1 : XGBoost models](notebooks/01_XGBoost.ipynb)
+ * [Chapter2 : Hyper-parameter tuning with hyperopt](notebooks/02_hyperopt.ipynb)
+ * [Chapter3 : Model interpretation with SHAP values](notebooks/03_SHAP.ipynb)
+ * [Chapter4 : Model generalization with nested Cross-validation](notebooks/04_nestedCV.ipynb)
 
 ## directory structure
 
