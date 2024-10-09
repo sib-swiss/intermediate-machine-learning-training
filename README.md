@@ -23,8 +23,8 @@ The course is organized in several "chapters" where the theory is covered in sli
 
  * [Chapter1 : XGBoost models](notebooks/01_XGBoost.ipynb)
  * [Chapter2 : Hyper-parameter tuning with hyperopt](notebooks/02_hyperopt.ipynb)
- * [Chapter3 : Model interpretation with SHAP values](notebooks/03_SHAP.ipynb)
- * [Chapter4 : Model generalization with nested Cross-validation](notebooks/04_nestedCV.ipynb)
+ * [Chapter3 : Model generalization with nested Cross-validation](notebooks/03_nestedCV.ipynb)
+ * [Chapter4 : Model interpretation with SHAP values or lIME](notebooks/04_model_explanation.ipynb)
 
 ## directory structure
 
