@@ -1,5 +1,9 @@
 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14196882.svg)](https://doi.org/10.5281/zenodo.14196882)
+
+
+
 # Ensuring More Accurate, Generalisable, and Interpretable Machine Learning Models for Bioinformatics
 
 
@@ -32,4 +36,10 @@ The course is organized in several "chapters" where the theory is covered in sli
 * notebooks : contains the code demo and exercise notebooks
 * slides : pptx / pdf of the course theory
 
+## cite us
 
+Feel free to re-use and adapt this material for your own purposes.
+
+We only ask that you cite us:
+
+Mueller, M., Tran, T. V. D., & Duchemin, W. (2024, October 15). Ensuring More Accurate, Generalisable, and Interpretable Machine Learning Models for Bioinformatics - October 2024. Zenodo. https://doi.org/10.5281/zenodo.14196882 
