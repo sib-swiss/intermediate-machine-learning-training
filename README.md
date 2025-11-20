@@ -1,8 +1,5 @@
 
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14196882.svg)](https://doi.org/10.5281/zenodo.14196882)
-
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17657949.svg)](https://doi.org/10.5281/zenodo.17657949)
 
 # Ensuring More Accurate, Generalisable, and Interpretable Machine Learning Models for Bioinformatics
 
@@ -27,8 +24,7 @@ The course is organized in several "chapters" where the theory is covered in sli
 
  * [Chapter1 : XGBoost models](notebooks/01_XGBoost.ipynb)
  * [Chapter2 : Hyper-parameter tuning with hyperopt](notebooks/02_hyperopt.ipynb)
- * [Chapter3 : Model generalization with nested Cross-validation](notebooks/03_nestedCV.ipynb)
- * [Chapter4 : Model interpretation with SHAP values or lIME](notebooks/04_model_explanation.ipynb)
+ * [Chapter4 : Model interpretation with SHAP values or lIME](notebooks/03_model_explanation.ipynb)
 
 ## directory structure
 
@@ -42,4 +38,4 @@ Feel free to re-use and adapt this material for your own purposes.
 
 We only ask that you cite us:
 
-Mueller, M., Tran, T. V. D., & Duchemin, W. (2024, October 15). Ensuring More Accurate, Generalisable, and Interpretable Machine Learning Models for Bioinformatics - October 2024. Zenodo. https://doi.org/10.5281/zenodo.14196882 
+Duchemin, W., Müller, M., & Tran, V. D. (2025, November 17). Course material for the SIB course: Intermediate Machine Learning - Ensuring More Accurate, Generalisable, and Interpretable Machine Learning Models for Bioinformatics. Zenodo. [https://doi.org/10.5281/zenodo.17657949](https://doi.org/10.5281/zenodo.17657949)
