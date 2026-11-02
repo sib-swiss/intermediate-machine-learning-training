@@ -24,10 +24,10 @@ If you are on Windows and/or are allergic to command line, you can use the [anac
 
 Otherwise, just open a terminal, navigate to where the file is, and use the following command:
 ```
-conda env create -f intermediateML_2024.yml
+conda env create -f intermediateML_2026.yml
 ```
 
-Activate the new environment: `conda activate intermediateML_2024`
+Activate the new environment: `conda activate intermediateML_2026`
 
 Verify that the new environment was installed correctly: `conda env list`
 
@@ -35,13 +35,13 @@ Verify that the new environment was installed correctly: `conda env list`
 
 These first 2 commands create and activate a new enviroment
 ```
-conda create -y -n intermediateML_2024 python=3.11
-conda activate intermediateML_2024
+conda create -y -n intermediateML_2026 python=3.12
+conda activate intermediateML_2026
 ```
 
 These commands install all necessary modules and their dependencies:
 ```
-pip install shap xgboost-cpu seaborn ipykernel hyperopt scikit-learn
+pip install shap xgboost-cpu seaborn ipykernel scikit-learn optuna anywidget optuna-dashboard lime plotly
 ```
 
 
@@ -53,5 +53,9 @@ Python : at least 3.11
  * xgboost-cpu 
  * seaborn 
  * ipykernel 
- * hyperopt
  * scikit-learn
+ * optuna
+ * anywidget
+ * optuna-dashboard
+ * lime
+ * plotly

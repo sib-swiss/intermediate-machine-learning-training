@@ -23,7 +23,7 @@ We advocate the use of conda environment for tidy management of the libraries ne
 The course is organized in several "chapters" where the theory is covered in slides, and jupyter notebooks interleave code demo, and exercises.
 
  * [Chapter1 : XGBoost models](notebooks/01_XGBoost.ipynb)
- * [Chapter2 : Hyper-parameter tuning with hyperopt](notebooks/02_hyperopt.ipynb)
+ * [Chapter2 : Hyper-parameter tuning with Optuna](notebooks/02_Optuna.ipynb)
  * [Chapter4 : Model interpretation with SHAP values or lIME](notebooks/03_model_explanation.ipynb)
 
 ## directory structure
