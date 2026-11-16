@@ -47,7 +47,7 @@ pip install shap xgboost-cpu seaborn ipykernel scikit-learn optuna anywidget opt
 
 ## method 3 : install the following however you want
 
-Python : at least 3.11
+Python : at least 3.12
 
  * shap 
  * xgboost-cpu 
